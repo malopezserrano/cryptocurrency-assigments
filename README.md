@@ -1,2 +1,2 @@
-# crytocurrency-assigments
-Coursera crytocurrency programming assigments
+# cryptocurrency-assigments
+Coursera cryptocurrency programming assigments
